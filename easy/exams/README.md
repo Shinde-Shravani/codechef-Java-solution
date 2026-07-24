@@ -1,7 +1,7 @@
 # 🧩 Exams
 
 ## 🔗 Problem Link
-https://www.codechef.com/problems/EXAMS
+https://www.codechef.com/practice/logical-problems
 
 ## 📝 Problem Summary
 
